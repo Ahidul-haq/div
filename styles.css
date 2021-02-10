@@ -1,0 +1,63 @@
+.header{
+	background-color: #00FFFF;
+	min-height:100px;
+}
+.wreppar{
+	overflow: hidden;
+
+}
+
+.box{
+	background-color: #ADFF2F;
+	min-height: 100px;
+	width:70%;
+	float:left;
+}
+.box2{
+	background-color:#9932CC; 
+	min-height: 100px;
+	width:30%;
+	float:right;
+}
+.raw{
+	overflow: hidden;
+}
+.lo{
+	background-color: #E0FFFF;
+	min-height: 100px;
+	width:35%;
+    float: left;
+
+} 
+.li{
+	background-color:#B0C4DE;
+	min-height: 100px;
+	width:35%;
+    float: left;
+
+} 
+.lp{
+    background-color:red;
+	min-height: 100px;
+	width:30%;
+    float:right;
+
+}
+.footer{
+	background-color: black;
+	min-height: 100px;
+
+}
+.op{
+	background-color: red;
+   	width:300px;
+   	height: 300px;
+   	margin: 50px 100px 30px; 
+
+}
+.lol{
+	background-color: green;
+   	width:300px;
+   	height: 300px;
+   	margin: 50px 500px 30px;
+}
